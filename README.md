@@ -46,6 +46,7 @@ Ozzy é um bot assistente virtual de RH da **Osmar Finances Corporation (OFC)**,
 ### 3) Testes mínimos
 - Rota 01: enviar texto agressivo e validar reescrita.
 - Rota 02: usar Google Drive com permissão “Qualquer pessoa com o link”.
+- Rota 02: usar outra cloud storage link com permissão "Qualquer pessoa com a link" 
 - Rota 02: validar retorno de erro para OneDrive.
 - Rota 03: gerar PDF e abrir link compartilhável.
 
@@ -53,4 +54,4 @@ Ozzy é um bot assistente virtual de RH da **Osmar Finances Corporation (OFC)**,
 https://github.com/osmarsalesjr/the-ofc-ozzy-bot-project.git
 
 ## Documentação completa
-Veja a página `Ozzy (OFC) — Documentação Técnica` no Notion (inclui fluxogramas e detalhes ponta a ponta).
+Veja a página `Ozzy (OFC) — Documentação Técnica` (inclui fluxogramas e detalhes ponta a ponta).
