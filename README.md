@@ -53,7 +53,8 @@ Ozzy é um bot assistente virtual de RH da **Osmar Finances Corporation (OFC)**,
 - Rota 03: gerar PDF e abrir link compartilhável.
 
 ## Repositório
-https://github.com/osmarsalesjr/the-ofc-ozzy-bot-project.git
+[GitHub Ozzy](https://github.com/osmarsalesjr/the-ofc-ozzy-bot-project.git)
 
 ## Documentação completa
 Veja a página [`Ozzy (OFC) — Documentação Técnica`](DOCS/DOCUMENTAÇÃO_OZZY.pdf) (inclui fluxogramas e detalhes ponta a ponta).
+Veja a página de [Análises e Discussões](DOCS/ANALISES_E_DISCUSSOES.pdf).
