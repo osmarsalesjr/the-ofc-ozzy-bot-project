@@ -62,4 +62,4 @@ Veja a página de [Análises e Discussões](DOCS/ANALISES_E_DISCUSSOES.pdf).
 
 Veja o [Vídeo de Demonstração do Ozzy no Google Drive](https://drive.google.com/file/d/16dIyFfABiz__QShgPHyzxE8LdL3nqPm4/view?usp=sharing)
 
-Vídeo de Demonstração também disponível neste repositorio: [Clique Aqui](DOCS/DEMO_OZZY)
+Vídeo de Demonstração também disponível neste repositorio: [Clique Aqui](DEMO_OZZY)
