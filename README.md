@@ -62,4 +62,4 @@ Veja a página de [Análises e Discussões](DOCS/ANALISES_E_DISCUSSOES.pdf).
 
 Veja o [Vídeo de Demonstração do Ozzy no OneDrive](https://1drv.ms/v/c/c417189aeed0f9d1/IQAvhGn0t_-hQoSvYBl6fHeTAWoyLDYAdu71tTaJzn9XImc?e=wYn0iu)
 
-Vídeo de Demonstração também disponível neste repositorio: [Clique Aqui](DOCS/DEMO_OZZY/DEMO_OZZY_BOT.mp4)
+Vídeo de Demonstração também disponível neste repositorio: [Clique Aqui](DOCS/DEMO_OZZY)
