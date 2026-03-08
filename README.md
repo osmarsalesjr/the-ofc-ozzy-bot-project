@@ -60,6 +60,6 @@ Veja a página [`Ozzy (OFC) — Documentação Técnica`](DOCS/DOCUMENTAÇÃO_OZ
 
 Veja a página de [Análises e Discussões](DOCS/ANALISES_E_DISCUSSOES.pdf).
 
-Veja o [Vídeo de Demonstração do Ozzy no OneDrive](https://1drv.ms/v/c/c417189aeed0f9d1/IQAvhGn0t_-hQoSvYBl6fHeTAWoyLDYAdu71tTaJzn9XImc?e=wYn0iu)
+Veja o [Vídeo de Demonstração do Ozzy no Google Drive](https://drive.google.com/file/d/16dIyFfABiz__QShgPHyzxE8LdL3nqPm4/view?usp=sharing)
 
 Vídeo de Demonstração também disponível neste repositorio: [Clique Aqui](DOCS/DEMO_OZZY)
