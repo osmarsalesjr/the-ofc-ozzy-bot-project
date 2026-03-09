@@ -33,6 +33,7 @@ Ozzy é um bot assistente virtual de RH da **Osmar Finances Corporation (OFC)**,
 	- `escolha_menu`, `rota_menu_inicial`, `texto_a_ajustar`, `url_video`, `tipo_documento`, `texto_documento`, `resultado`
 3. Confirme que os blocos de Webhook apontam para o endpoint do Make (Webhook Bridge).
 4. Link para JSON do cenário do TypeBot [aqui](DOCS/OZZY_FLOWS_JSON/ozzy-typebot-flow.json).
+5. Link do Cenário no TypeBot [aqui](https://app.typebot.io/typebots/ntkxl413rhpjd3f651pka931/edit)
 
 ### 2) Make
 1. Importe o cenário/fluxo no Make.
@@ -44,6 +45,7 @@ Ozzy é um bot assistente virtual de RH da **Osmar Finances Corporation (OFC)**,
 	- Gemini
 	- CloudConvert
 5. Link para JSON do cenário do Make [aqui](DOCS/OZZY_FLOWS_JSON/ozzy-make-flow.json).
+6. Link do Cenário no Make [aqui](https://us2.make.com/public/shared-scenario/YCYz422gVLt/apigemini-para-typebot)
 
 ### 3) Testes mínimos
 - Rota 01: enviar texto agressivo e validar reescrita.
